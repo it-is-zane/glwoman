@@ -1,5 +1,5 @@
 # glwoman
-Intended to eventualy be a successor to
+Intended to potentially eventualy be a successor to
 [GLman](https://web.engr.oregonstate.edu/~mjb/glman/)
 [GLman-docs](https://web.engr.oregonstate.edu/~mjb/glman/Doc/glman.pdf)
 
